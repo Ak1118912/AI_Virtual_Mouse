@@ -38,7 +38,7 @@ pip install opencv-python mediapipe pyautogui
 ### Running the App
 
 Start the program with:
-python main.py
+vitual_mouse.py
 
 ---
 
@@ -55,9 +55,10 @@ python main.py
 
 | File/Folder      | Purpose                              |
 |------------------|--------------------------------------|
-| `main.py`        | Entry point, video stream, hand logic|
-| `hand_tracking.py`| Handles hand detection & gesture logic|
-| `utils/`         | Helper scripts, configuration        |
+| `virtual_mouse.ipynb`| Entry point, video stream, hand logic|
+| `mouse.py`|pre pseudo code|
+| `output.json`         |output file |
+| `requirements.txt`      | Project requirements for execution   |
 | `README.md`      | Project overview and instructions    |
 
 ---
